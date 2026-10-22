@@ -1,0 +1,22 @@
+timestamp,model,question_id,repeat,status,latency_s,prompt_tokens,output_tokens,thoughts_tokens,total_tokens,error
+2026-10-22T23:05:49,gemini-3.5-flash-lite,short_general,1,503,1.865,,,,,This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+2026-10-22T23:05:56,gemini-3.5-flash-lite,course_specific,1,ok,11.545,21,534,0,555,
+2026-10-22T23:06:13,gemini-3.5-flash-lite,long_input,1,ok,12.512,1098,111,0,1209,
+2026-10-22T23:06:30,gemini-3.5-flash-lite,short_general,2,ok,10.442,7,583,0,590,
+2026-10-22T23:06:46,gemini-3.5-flash-lite,course_specific,2,ok,10.484,21,530,0,551,
+2026-10-22T23:07:01,gemini-3.5-flash-lite,long_input,2,ok,11.971,1098,91,0,1189,
+2026-10-22T23:07:18,gemini-3.5-flash-lite,short_general,3,ok,14.003,7,560,0,567,
+2026-10-22T23:07:37,gemini-3.5-flash-lite,course_specific,3,ok,14.259,21,426,0,447,
+2026-10-22T23:07:56,gemini-3.5-flash-lite,long_input,3,ok,8.98,1098,104,0,1202,
+2026-10-22T23:08:10,gemini-3.8-flash,short_general,1,ok,17.62,7,751,910,1668,
+2026-10-22T23:08:42,gemini-3.8-flash,course_specific,1,503,0.845,,,,,This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+2026-10-22T23:08:57,gemini-3.8-flash,long_input,1,ok,5.125,1098,104,294,1496,
+2026-10-22T23:09:16,gemini-3.8-flash,short_general,2,503,1.452,,,,,This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+2026-10-22T23:09:31,gemini-3.8-flash,course_specific,2,503,0.459,,,,,This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+2026-10-22T23:09:46,gemini-3.8-flash,long_input,2,ok,4.027,1098,83,313,1494,
+2026-10-22T23:10:04,gemini-3.8-flash,short_general,3,ok,17.081,7,710,920,1637,
+2026-10-22T23:10:35,gemini-3.8-flash,course_specific,3,503,0.671,,,,,This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+2026-10-22T23:10:50,gemini-3.8-flash,long_input,3,503,1.048,,,,,This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+2026-10-22T23:11:23,gemini-3.8-flash,course_specific,1,503,5.492,,,,,This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+2026-10-22T23:11:43,gemini-3.8-flash,course_specific,2,503,2.581,,,,,This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+2026-10-22T23:11:59,gemini-3.8-flash,course_specific,3,503,10.747,,,,,This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
